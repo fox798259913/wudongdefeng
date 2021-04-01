@@ -1,4 +1,4 @@
-央视频道
+央视频道,#genre#
 CCTV1 综合频道,http://stream4.jlntv.cn/cctv1/sd/live.m3u8
 CCTV1 综合频道,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
 CCTV2 财经频道,http://112.17.40.140/PLTV/88888888/224/3221226468/index.m3u8
@@ -35,7 +35,7 @@ CGTN document,https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 CETV1 中国教育频道,http://ivi.bupt.edu.cn/hls/cetv1hd.m3u8
 CETV3 中国教育频道,http://ivi.bupt.edu.cn/hls/cetv3.m3u8
 CETV4 中国教育频道,http://ivi.bupt.edu.cn/hls/cetv4.m3u8
-卫视频道
+卫视频道,#genre#
 江苏卫视,http://112.50.243.8/PLTV/88888888/224/3221225930/1.m3u8
 江苏卫视,http://39.134.168.91/PLTV/1/224/3221225512/index.m3u8
 江苏卫视,http://39.134.168.91/PLTV/1/224/3221225514/index.m3u8
@@ -180,7 +180,7 @@ CETV4 中国教育频道,http://ivi.bupt.edu.cn/hls/cetv4.m3u8
 四川妇女,http://scgctvshow.sctv.com/hdlive/sctv7/3.m3u8
 四川公共,http://scgctvshow.sctv.com/sdlive/sctv9/3.m3u8
 嘉佳卡通,http://nclive.grtn.cn/jjkt/sd/live.m3u8
-影视轮播
+影视轮播,#genre#
 林正英经典电影24小时,http://66.zipeszn.xyz/qq1792493091/yy.php?id=1393837072
 【老板来了】搞笑剧,http://66.zipeszn.xyz/qq1792493091/yy.php?id=38525272
 动漫 斗罗斗破全职,http://66.zipeszn.xyz/qq1792493091/yy.php?id=1351086880
@@ -238,7 +238,7 @@ YY实盘第一主播,http://66.zipeszn.xyz/qq1792493091/yy.php?id=75536595
 【动漫电影】龙珠,http://66.zipeszn.xyz/qq1792493091/yy.php?id=26664495
 港剧悬疑破案,http://66.zipeszn.xyz/qq1792493091/yy.php?id=10425097
 精湛闻名于世界的赌片,http://66.zipeszn.xyz/qq1792493091/yy.php?id=31914327
-影视频道
+影视频道,#genre#
 【動漫電影】龍珠,http://106.54.30.243/dl/YY.php?t=26664495
 【林正英】女鬼相親,http://106.54.30.243/dl/YY.php?t=24066336
 【林正英】鬼片500部,http://106.54.30.243/dl/YY.php?t=1353059120
@@ -284,7 +284,7 @@ YY实盘第一主播,http://66.zipeszn.xyz/qq1792493091/yy.php?id=75536595
 这些都是高智商的罪犯,http://tx.hls.huya.com/src/1423787865-1423787865-6115122316616663040-2847699186-10057-A-0-1-imgplus.m3u8?wsSecret=593b60854fa3ef7726d36f2b48470366&wsTime=5f352e7e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
 阿达!李小龙在此,http://tx.hls.huya.com/src/1423787882-1423787882-6115122389631107072-2847699220-10057-A-0-1.m3u8?wsSecret=f73aaba2cd3b724b728a4250a202c537&wsTime=5f352e6e&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
 我有一个叫顺溜的兄弟,http://tx.hls.huya.com/src/1524418065-1524418065-6547325734606602240-3048959586-10057-A-0-1.m3u8?wsSecret=57c756dc1043406477ab6c004bd4afaf&wsTime=5f352e71&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
-明星频道
+明星频道,#genre#
 周星驰电影,http://tv.rdys888.top/bak/proxy/youku.php?id=8021901
 周润发电影,http://tv.rdys888.top/bak/proxy/youku.php?id=8021907
 刘德华电影,http://tv.rdys888.top/bak/proxy/youku.php?id=8018618
@@ -311,7 +311,7 @@ YY实盘第一主播,http://66.zipeszn.xyz/qq1792493091/yy.php?id=75536595
 快乐其实很简单,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/b79ca7076a6443c3826617c98ae89aa3/1200.m3u8
 美食李子柒,http://hls-ott-zhibo.wasu.tv/live/443/index.m3u8
 华人牌2060款手机,http://tx.hls.huya.com/src/1524439823-1524439823-6547419184505028608-3049003102-10057-A-0-1.m3u8?wsSecret=bf5101434aeb8b520522d5a16058abfe&wsTime=5f352e75&fm=RFdxOEJjSjNoNkRKdDZUWV8kMF8kMV8kMl8kMw%3D%3D&ctype=tars_mobile&fs=bgct&&sphdcdn=al_7-tx_3-js_3-ws_7-bd_2-hw_2&sphdDC=huya&sphd=264_*&t=103
-歌曲频道
+歌曲频道,#genre#
 经典怀旧小酒馆,http://66.zipeszn.xyz/qq1792493091/yy.php?id=54880976
 逗趣女王二丫,http://66.zipeszn.xyz/qq1792493091/yy.php?id=75285728
 逗趣男歌玄律,http://66.zipeszn.xyz/qq1792493091/yy.php?id=30870813
@@ -1317,7 +1317,7 @@ ML娱乐-夏...正在直播,http://66.zipeszn.xyz/qq1792493091/yy.php?id=1354566
 可爱女神小宁宁,http://66.zipeszn.xyz/qq1792493091/yy.php?id=12792559
 灵魂歌者皮卡丘,http://66.zipeszn.xyz/qq1792493091/yy.php?id=1354492207
 气质学姐 花已,http://66.zipeszn.xyz/qq1792493091/yy.php?id=35380268
-杰婷港澳台
+杰婷港澳台,#genre#
 翡翠台,http://154.209.228.33/live/jiegectx2/jiegectx2/1.m3u8
 TVB明珠,http://154.209.228.33/live/jiegectx2/jiegectx2/2.m3u8
 无线新闻,http://154.209.228.33/live/jiegectx2/jiegectx2/3.m3u8
@@ -1470,7 +1470,7 @@ JET综合,http://154.209.228.33/live/jiegectx2/jiegectx2/228.m3u8
 国兴卫视,http://154.209.228.33/live/jiegectx2/jiegectx2/232.m3u8
 星卫娱乐,http://154.209.228.33/live/jiegectx2/jiegectx2/233.m3u8
 CN卡通,http://154.209.228.33/live/jiegectx2/jiegectx2/269.m3u8
-港澳台1
+港澳台1,#genre#
 翡翠台,http://164.155.92.243/live/jiegectx2/jiegectx2/1.m3u8
 TVB明珠,http://164.155.92.243/live/jiegectx2/jiegectx2/2.m3u8
 无线新闻,http://164.155.92.243/live/jiegectx2/jiegectx2/3.m3u8
@@ -1532,7 +1532,7 @@ TVBS综合,http://164.155.92.243/live/jiegectx2/jiegectx2/154.m3u8
 华纳电影,http://164.155.92.243/live/jiegectx2/jiegectx2/260.m3u8
 TVBS精采,http://164.155.92.243/live/jiegectx2/jiegectx2/156.m3u8
 三立综合,http://164.155.92.243/live/jiegectx2/jiegectx2/163.m3u8
-港澳台2
+港澳台2,#genre#
 凤凰中文 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
 凤凰中文 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225948/1.m3u8
 凤凰资讯 ,http://221.179.217.9/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225949/1.m3u8
@@ -1553,7 +1553,7 @@ TVB明珠,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fs
 澳门卫视,http://112.30.130.13:91/suntv.php?id=MSTV
 大爱1,https://pulltv1.wanfudaluye.com/live/tv1.m3u8
 大爱2,https://pulltv2.wanfudaluye.com/live/tv2.m3u8
-港澳台3
+港澳台3,#genre#
 J2,mitv://107.148.223.220:48918/5fc15d5900079638517f3512cece66a0
 无线新闻台,mitv://107.148.223.220:48918/5fc15d590006b554517f34d862d91e0d
 翡翠台,mitv://107.148.223.220:48918/5fc15d590005d8a4517f34a0f99ba5cc
@@ -1685,7 +1685,7 @@ TV9,mitv://107.148.223.220:48918/5fc15ce6000719dc517d73ba799319f3
 小太阳,mitv://107.148.223.220:48918/5fc15ce6000474c2517d730cdf04469e
 全佳,mitv://107.148.223.220:48918/5fc15ce600038873517d72d07c1e23df
 双星,mitv://107.148.223.220:48918/5fc15ce60002a7fb517d7296a87b42cf
-杰婷国际台
+杰婷国际台,#genre#
 新时代多伦多,http://154.209.228.33/live/jiegectx2/jiegectx2/37.m3u8
 新时代多伦多2,http://154.209.228.33/live/jiegectx2/jiegectx2/38.m3u8
 新时代温哥华,http://154.209.228.33/live/jiegectx2/jiegectx2/39.m3u8
@@ -1821,7 +1821,7 @@ Boomerang,http://154.209.228.33/live/jiegectx2/jiegectx2/284.m3u8
 Universal Kids,http://154.209.228.33/live/jiegectx2/jiegectx2/285.m3u8
 BBCBeebies,http://154.209.228.33/live/jiegectx2/jiegectx2/286.m3u8
 Cartoon,http://154.209.228.33/live/jiegectx2/jiegectx2/287.m3u8
-国际台1
+国际台1,#genre#
 MTV音乐,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 MTV音乐,http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 HBO2台,http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8？fluxustv.m3u8
@@ -1908,7 +1908,7 @@ MediciArts,http://v3948069e.live.126.net/live/90eb2787f419e75833f8e166e788467f.f
 MezzoLive,http://v3948069e.live.126.net/live/6e2a8c9ea5df3673f897dc4906602082.flv
 纬来体育,http://v3948069e.live.126.net/live/714d1d32e772a0ac7ee5251fa6d1c2cd.flv
 arirang,https://playks.shangzhibo.tv/live/c01cb34281-91c01cb34281-623d4109384284137e081ad0bbf3f50a-A-0-1.flv
-国际台2
+国际台2,#genre#
 印度音乐台,http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 法国24台英语,http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
 俄罗斯IGITV蓝光,http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
@@ -1994,7 +1994,7 @@ TV7+ (Хмельн),http://tv7plus.com/hls/tv7_site.m3u8
 阿联酋 Ⅰ ATV 4,http://85.132.81.184:8080/atv-4/index.m3u8
 俄罗斯 Ⅰ FM 音乐频道,http://rtmp.one.by:1200
 俄罗斯 Ⅰ OR 音乐频道,http://rtmp.one.by:2200/
-CIBN
+CIBN,#genre#
 CIBN炫佳动漫,http://66.zipeszn.xyz/qq1792493091/cibn.php?id=JingPin
 CIBN真人秀,http://66.zipeszn.xyz/qq1792493091/cibn.php?id=LuShi
 CIBN怡家,http://66.zipeszn.xyz/qq1792493091/cibn.php?id=JiaoYu
@@ -2042,7 +2042,7 @@ CIBN收藏,http://66.zipeszn.xyz/qq1792493091/cibn.php?id=501
 CIBN莎翁戏剧,http://66.zipeszn.xyz/qq1792493091/cibn.php?id=68
 CIBN综合,http://66.zipeszn.xyz/qq1792493091/cibn.php?id=DianJing
 CIBN生活,http://66.zipeszn.xyz/qq1792493091/cibn.php?id=ShengHuo
-地方台
+地方台,#genre#
 广东 Ⅰ 广东综艺4K,http://nclive.grtn.cn:80/4K/sd/live.m3u8
 广东 Ⅰ 广东珠江,http://nclive.grtn.cn/zjpd/sd/live.m3u8
 广东 Ⅰ 广东影视,http://nclive.grtn.cn/tvs4/sd/live.m3u8
@@ -2344,7 +2344,7 @@ CIBN生活,http://66.zipeszn.xyz/qq1792493091/cibn.php?id=ShengHuo
 蛇口,http://218.17.99.211:82/hls/d4encs75.m3u8
 增城综合,http://202.168.164.38:8083/videos/live/19/27/QEQXMtU5AUpwo/QEQXMtU5AUpwo.M3U8
 中山公共,http://dslive.grtn.cn/zszh/sd/live.m3u8
-杰婷娱乐台12123
+杰婷娱乐台,#genre#12123
 松视1台,http://164.155.92.243/live/jiegectx2/jiegectx2/919.m3u8
 松视2台,http://164.155.92.243/live/jiegectx2/jiegectx2/920.m3u8
 松视3台,http://164.155.92.243/live/jiegectx2/jiegectx2/921.m3u8
@@ -2371,7 +2371,7 @@ Super One ,http://164.155.92.243/live/jiegectx2/jiegectx2/941.m3u8
 Prvate TV,http://164.155.92.243/live/jiegectx2/jiegectx2/942.m3u8
 Passie,http://164.155.92.243/live/jiegectx2/jiegectx2/943.m3u8
 Vivid Red ,http://164.155.92.243/live/jiegectx2/jiegectx2/944.m3u8
-娱乐台112123
+娱乐台1,#genre#12123
 松视1欧美版,http://38.64.78.88/fetish.m3u8
 松视2欧美版,http://38.64.78.88/interracial.m3u8
 松视3欧美版,http://38.64.78.88/bigtits.m3u8
@@ -2389,7 +2389,7 @@ K频道欧美版,http://38.64.78.88/threesome.m3u8
 俄罗斯,http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1073/index.m3u8
 JASMIN,http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w.m3u8
 Miami TV Latino (18+),http://59ec5453559f0.streamlock.net/canal18/smil:canal18/chunklist_b2592000.m3u8
-娱乐台212123
+娱乐台2,#genre#12123
 生田奈々013,https://yiqikan.wuyouzuida.com/20200112/2797_b71a2265/index.m3u8
 前田有希1147,https://yiqikan.wuyouzuida.com/20200112/2798_7fed4f21/index.m3u8
 水崎あずさ016,https://yiqikan.wuyouzuida.com/20200112/2800_cfe4a10d/index.m3u8
@@ -2421,7 +2421,7 @@ Miami TV Latino (18+),http://59ec5453559f0.streamlock.net/canal18/smil:canal18/c
 枢木葵378,https://yiqikan.wuyouzuida.com/20200111/2756_80db531c/index.m3u8
 岡英里178,https://yiqikan.wuyouzuida.com/20200112/2770_08d7ec85/index.m3u8
 皆藤みなえ034,https://yiqikan.wuyouzuida.com/20200112/2767_6c99cd80/index.m3u8
-娱乐台312123
+娱乐台3,#genre#12123
 花与蛇地狱篇,http://youku1.dianfubang.com/20190404/SPh9JmcX/index.m3u8
 爱玛夫人/马夫的孩子,http://youku1.dianfubang.com/20190409/noE4rt52/index.m3u8
 性感女老板与我,http://youku1.dianfubang.com/20190330/cFY6Ey4L/index.m3u8
@@ -3696,7 +3696,7 @@ SZERELEMTOLSUJTVA,http://youku1.dianfubang.com/20191231/KBjquvWV/index.m3u8
 禁果情花,http://youku1.dianfubang.com/20191205/IaPzzRIt/index.m3u8
 美国派2/美国处男2,http://youku1.dianfubang.com/20191122/GqUCujZu/index.m3u8
 红糖,http://youku1.dianfubang.com/20200108/ByRmGPrA/index.m3u8
-景色天眼
+景色天眼,#genre#
 全国风景,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 黟县月沼,https://gctxyc.liveplay.myqcloud.com/gc/yxhcyz_1/index.m3u8?contentid=2820180516001
 黟县南湖,https://gcalic.v.myalicdn.com/gc/yxhcnh_1/index.m3u8?contentid=2820180516001
