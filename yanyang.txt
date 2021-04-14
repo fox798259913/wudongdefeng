@@ -475,7 +475,7 @@ NBA TV,https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 国家地理,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 探索频道,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 星空体育,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-﻿港澳台急速1,#genre#
+港澳台急速1,#genre#
 莲花卫视,http://live-hls.macaulotustv.com/lotustv/macaulotustv.m3u8
 无线新闻台,http://qj.yyrjdp.cn/jiuban/tvb.php?id=1
 无线财经台,http://qj.yyrjdp.cn/jiuban/tvb.php?id=2
@@ -486,7 +486,7 @@ NBA TV,https://www.livedoomovies.com/02_nbahd_720p/chunklist.m3u8
 中国环球电视,http://live.cgtn.com/500/prog_index.m3u8
 香港卫视文旅,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 Fox Family,https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-﻿港澳台急速2,#genre#
+港澳台急速2,#genre#
 港台電視,http://185.207.176.189:8080/channels/tv-31/mpeg.2ts
 港台新聞,http://185.207.176.189:8080/channels/tv-32/mpeg.2ts
 CCTV-I,http://185.207.176.189:8080/channels/tv-33/mpeg.2ts
@@ -507,7 +507,7 @@ ViuTV,http://185.207.176.189:8080/channels/tv-99/mpeg.2ts
 凤凰卫视香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
 鳳凰資訊,http://117.169.120.138:8080/live/fhzixun/.m3u8
 凤凰卫视资讯台,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-﻿港澳台翻q急速3,#genre#
+港澳台翻q急速3,#genre#
 翡翠台 1080P,https://cdn.hkdtmb.com/hls/81/index.m3u8
 ViuTV 1080P,https://cdn.hkdtmb.com/hls/99/index.m3u8
 ViuTV 6,https://cdn.hkdtmb.com/hls/96/index.m3u8
